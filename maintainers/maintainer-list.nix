@@ -8923,7 +8923,7 @@
     name = "pasqui23";
   };
   patryk27 = {
-    email = "wychowaniec.patryk@gmail.com";
+    email = "pwychowaniec@pm.me";
     github = "Patryk27";
     githubId = 3395477;
     name = "Patryk Wychowaniec";
@@ -8973,12 +8973,6 @@
     github = "pcarrier";
     githubId = 8641;
     name = "Pierre Carrier";
-  };
-  pengmeiyu = {
-    email = "pengmyu@gmail.com";
-    github = "pmeiyu";
-    githubId = 8529551;
-    name = "Peng Mei Yu";
   };
   penguwin = {
     email = "penguwin@penguwin.eu";
@@ -9254,6 +9248,12 @@
     github = "pmiddend";
     githubId = 178496;
     name = "Philipp Middendorf";
+  };
+  pmy = {
+    email = "pmy@xqzp.net";
+    github = "pmeiyu";
+    githubId = 8529551;
+    name = "Peng Mei Yu";
   };
   pmyjavec = {
     email = "pauly@myjavec.com";

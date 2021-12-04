@@ -5359,6 +5359,8 @@ in {
 
   open-garage = callPackage ../development/python-modules/open-garage { };
 
+  open-meteo = callPackage ../development/python-modules/open-meteo { };
+
   openant = callPackage ../development/python-modules/openant { };
 
   openapi-schema-validator = callPackage ../development/python-modules/openapi-schema-validator { };
@@ -8803,6 +8805,8 @@ in {
 
   socialscan = callPackage ../development/python-modules/socialscan { };
 
+  socid-extractor =  callPackage ../development/python-modules/socid-extractor { };
+
   sockjs = callPackage ../development/python-modules/sockjs { };
 
   sockjs-tornado = callPackage ../development/python-modules/sockjs-tornado { };
@@ -10144,6 +10148,8 @@ in {
   XlsxWriter = callPackage ../development/python-modules/XlsxWriter { };
 
   xlwt = callPackage ../development/python-modules/xlwt { };
+
+  xmind = callPackage ../development/python-modules/xmind { };
 
   xml2rfc = callPackage ../development/python-modules/xml2rfc { };
 
